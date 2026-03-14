@@ -1,4 +1,4 @@
-![Banner image](./Gemini_Generated_Image_hgpbf7hgpbf7hgpb.png)
+![Banner image](<./Gemini_Generated_Image_hgpbf7hgpbf7hgpb (1).png>)
 
 # Hi, I'm Robert Afful 👋
 
