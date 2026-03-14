@@ -1,10 +1,18 @@
 # Hi, I'm Robert Afful 👋
 
-🎓 Information Technology Student at KNUST  
-💻 JavaScript Developer | Full-Stack Enthusiast  
-⚙️ Interested in Automation, System Design, and AI-Assisted Development
+💻 Junior Full-Stack JavaScript Developer  |  AI Automations Enthusiast 
 
-I enjoy building practical software systems that help individuals and organizations operate more efficiently.
+🎓 Information Technology Student at KNUST  
+
+
+I build web applications, productivity tools, and automation systems. I'm particularly interested in designing software systems that help organizations operate more efficiently.
+
+
+Currently exploring:
+
+• Full-stack architecture  
+• AI-assisted development workflows  
+• System design
 
 ---
 
