@@ -1,3 +1,5 @@
+![Banner image](./Gemini_Generated_Image_hgpbf7hgpbf7hgpb.png)
+
 # Hi, I'm Robert Afful 👋
 
 💻 Junior Full-Stack JavaScript Developer  |  AI Automations Enthusiast 
