@@ -35,8 +35,8 @@ Currently exploring:
 
 **Backend**
 - Django
-- Node.js (learning)
-- Express (learning)
+- Node.js
+- Express 
 
 **Tools**
 - Git
